@@ -1,3 +1,4 @@
 second機能を追加
 機能修正  mainで機能追加
 さらに機能を追加していきます。new-featureで機能追加
+機能追加 new-feature2で機能追加
