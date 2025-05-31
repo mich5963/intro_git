@@ -2,3 +2,4 @@
 基本的なワークフローを学びます
 git add, commit 周りの練習
 git diff
+masterで機能修正
