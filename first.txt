@@ -3,3 +3,4 @@
 git add, commit 周りの練習
 git diff
 masterで機能修正
+mainで機能修正
